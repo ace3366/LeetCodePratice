@@ -5,3 +5,6 @@
 ### [2. Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/description/)
 ### [3. Score of a String](https://leetcode.com/problems/score-of-a-string/description/)
 ### [4. Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)
+
+## Level : Medium
+### [1. Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/description/)
