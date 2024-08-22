@@ -16,7 +16,6 @@ int[][] FlipAndInvertImage(int[][] image)
             image[i][j] = image[i][image[i].Length - 1 - j] == 1 ? 0 : 1;
             image[i][image.Length - 1 - j] = temp == 1 ? 0 : 1;
         }
-
     }
     return image;
 
