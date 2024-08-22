@@ -8,3 +8,4 @@
 
 ## Level : Medium
 ### [1. Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/description/)
+### [2. K Closest Point to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
