@@ -8,3 +8,4 @@
 ### [1. Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/description/)
 ### [2. K Closest Point to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
 ### [3. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)
+### [4. Video Stitching](https://leetcode.com/problems/video-stitching/)
