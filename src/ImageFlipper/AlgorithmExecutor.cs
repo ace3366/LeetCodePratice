@@ -1,4 +1,5 @@
-﻿public class AlgorithmExecutor
+﻿namespace AlgorithmPractice.ImageFlipper;
+public class AlgorithmExecutor
 {
     public int[][] FlipAndInvertImage(int[][] image)
     {

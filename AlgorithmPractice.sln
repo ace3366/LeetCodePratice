@@ -25,6 +25,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{30269EE0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlgorithmPractice.UnitTests", "tests\AlgorithmPractice.UnitTests\AlgorithmPractice.UnitTests.csproj", "{63735611-2D51-4F6E-AA5D-95D07CC8F6C8}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VideoStitching", "src\Video Stitching\VideoStitching.csproj", "{D7DBD7A6-394A-473E-A0B5-D80A08ABE7A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,10 @@ Global
 		{63735611-2D51-4F6E-AA5D-95D07CC8F6C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63735611-2D51-4F6E-AA5D-95D07CC8F6C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63735611-2D51-4F6E-AA5D-95D07CC8F6C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7DBD7A6-394A-473E-A0B5-D80A08ABE7A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7DBD7A6-394A-473E-A0B5-D80A08ABE7A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7DBD7A6-394A-473E-A0B5-D80A08ABE7A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7DBD7A6-394A-473E-A0B5-D80A08ABE7A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -81,6 +87,7 @@ Global
 		{91F2B4CE-B5AB-471A-9476-CF3FA3C43C20} = {AA2FD139-8D25-4EFC-A518-5E3CFA086F6B}
 		{09B12526-34DF-4E0C-92FD-A8788668BE43} = {AA2FD139-8D25-4EFC-A518-5E3CFA086F6B}
 		{63735611-2D51-4F6E-AA5D-95D07CC8F6C8} = {30269EE0-141F-4F34-86D5-C370156655C5}
+		{D7DBD7A6-394A-473E-A0B5-D80A08ABE7A3} = {AA2FD139-8D25-4EFC-A518-5E3CFA086F6B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DA20ED2C-39E2-4A11-83A1-0EA6F5CB5B5E}

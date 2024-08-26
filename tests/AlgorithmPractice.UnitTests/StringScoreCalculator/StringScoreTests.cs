@@ -1,5 +1,4 @@
 using AlgorithmPractice.StringScoreCalculator;
-
 namespace AlgorithmPractice.UnitTests.StringScoreCalculator
 {
     /// <summary>

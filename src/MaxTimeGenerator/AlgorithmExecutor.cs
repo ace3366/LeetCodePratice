@@ -1,6 +1,7 @@
-﻿public class AlgorithmExecutor
+﻿namespace AlgorithmPractice.MaxTimeGenerator;
+public class AlgorithmExecutor
 {
-    string LargestTimeFromDigits(int[] arr)
+    public string LargestTimeFromDigits(int[] arr)
     {
         int[] time = [10, 10, 10, 10];
         List<int> hoursInTenIndex = [];

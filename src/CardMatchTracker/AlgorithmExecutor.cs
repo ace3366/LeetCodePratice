@@ -1,4 +1,5 @@
-﻿public class AlgorithmExecutor
+﻿namespace AlgorithmPractice.CardMatchTracker;
+public class AlgorithmExecutor
 {
     public bool HasGroupsSizeX(int[] deck)
     {

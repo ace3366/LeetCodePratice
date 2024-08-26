@@ -1,4 +1,5 @@
-﻿public class AlgorithmExecutor
+﻿namespace AlgorithmPractice.ClosestPointFinder;
+public class AlgorithmExecutor
 {
     public int[][] KClosest(int[][] points, int k)
     {

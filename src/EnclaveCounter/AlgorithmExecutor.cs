@@ -1,4 +1,5 @@
-﻿public class AlgorithmExecutor
+﻿namespace AlgorithmPractice.EnclaveCounter;
+public class AlgorithmExecutor
 {
     public int NumEnclaves(int[][] grid)
     {
